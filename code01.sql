@@ -1,0 +1,1 @@
+create table aaa.aaa (id integer);
