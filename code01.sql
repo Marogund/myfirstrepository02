@@ -1,1 +1,1 @@
-create table aaa.aaa (id integer);
+create table aaa.bbb (id integer);
